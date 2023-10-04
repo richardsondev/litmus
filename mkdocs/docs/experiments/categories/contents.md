@@ -48,12 +48,12 @@ Chaos actions that apply to generic Kubernetes resources are classified into thi
   </tr>
   <tr>
     <td>Pod Delete</td>
-    <td>Deletes the application pod </td>
+    <td>Deletes the application pod</td>
     <td><a href="/litmus/experiments/categories/pods/pod-delete">pod-delete</a></td>
   </tr>
   <tr>
     <td>Pod DNS Error</td>
-    <td>Disrupt dns resolution in kubernetes po</td>
+    <td>Disrupt dns resolution in kubernetes pod</td>
     <td><a href="/litmus/experiments/categories/pods/pod-dns-error">pod-dns-error</a></td>
   </tr>
   <tr>
